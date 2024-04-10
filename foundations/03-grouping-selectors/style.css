@@ -1,0 +1,14 @@
+#uniqblack{
+    background-color: black;
+    color:white;
+    font-weight: bold;
+}
+
+
+#uniqyellow{
+background-color: yellow;
+}
+#uniqblack,#uniqyellow{
+    font-family: Helvetica;
+    font-size: larger;
+}
